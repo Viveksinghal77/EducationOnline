@@ -78,13 +78,13 @@ html {
 }
 
 .background {
-    background: rgba(53, 99, 226, 0.425) url('/images/h.jpg');
+    background: rgba(53, 99, 226, 0.425) url('/EducationOnline/h.jpg');
     background-size: cover;
     background-blend-mode: darken;
 }
 
 .background1 {
-    background: rgba(5, 10, 36, 0.425) url('/images/h.jpg');
+    background: rgba(5, 10, 36, 0.425) url('/EducationOnline/h.jpg');
     background-size: cover;
     background-blend-mode: darken;
 }
